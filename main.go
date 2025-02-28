@@ -19,4 +19,11 @@ func timeHandler(w http.ResponseWriter, r *http.Request) {
 func main() {
     http.HandleFunc("/time", timeHandler)
     http.ListenAndServe(":8795", nil)
+D
 }
+
+// New comment Kolesnyk
+
+// New comment Butkevych
+}
+
